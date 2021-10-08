@@ -9,4 +9,4 @@
 
 ![ScreenShot](https://media.discordapp.net/attachments/893863178700726344/894223017381609572/ClydexTTH.png?width=670&height=670)
 
-![](https://img.shields.io/static/v1?label=Hoe+Count&message=1234567890&color=brightgreen)
+![](https://img.shields.io/static/v1?label=Hoe+Count&message=Infinite&color=brightgreen)
